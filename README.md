@@ -68,3 +68,9 @@ bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm test
 ```
 
 by HackerRank
+
+--
+
+Artigo para utilizar o JSON Server
+
+https://www.fabricadecodigo.com/json-server/
